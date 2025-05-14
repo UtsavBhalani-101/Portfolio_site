@@ -8,6 +8,7 @@
   position: fixed;
   top: 2rem;
   left: calc((100% - var(--content-max-width) - var(--sidebar-width)) / 2);
+  height: fit-content;
 }
 
 .sidebar-content {
